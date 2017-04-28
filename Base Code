@@ -1,0 +1,4 @@
+prompt A,B,C
+(-B+(√B^2-4AC)/2A)->Y
+(-B-(√B^2-4AC)/2A)->X
+Disp "            X=" ,Y,X
